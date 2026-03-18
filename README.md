@@ -57,12 +57,12 @@
 
 | App | Description | Stack | Store |
 |-----|-------------|-------|-------|
-| **ALFNR** | Production Flutter app — live and actively maintained | Flutter | [▶ Play](https://play.google.com/store/apps/details?id=com.alfnr) · [🍎 App Store](https://apps.apple.com) |
-| **Vivlino** | Cash flow & sales management for SMEs — 1,000+ users | Flutter · Firebase · Node.js | [▶ Play](https://play.google.com/store/apps/details?id=com.vivlino) · [🍎 App Store](https://apps.apple.com) |
-| **Threems (3MS)** | Community finance platform — rotating savings, charity & marketplace | Flutter · Firebase · Node.js | [▶ Play](https://play.google.com/store/apps/details?id=com.threems) · [🍎 App Store](https://apps.apple.com) |
-| **Soulknob Mind Menders** | Corporate wellness — AI chat, video counseling & gamified activities | Flutter · Firebase · REST APIs | [▶ Play](https://play.google.com/store/apps/details?id=com.soulknob) · [🍎 App Store](https://apps.apple.com) |
-| **Tharacart** | National grocery e-commerce platform | Flutter · Firebase | [▶ Play](https://play.google.com/store/apps/details?id=com.tharacart) |
-| **Live To Smile (LTS)** | Online learning platform — course management & student tracking | Flutter · Firebase | [▶ Play](https://play.google.com/store/apps/details?id=com.lts) · [🍎 App Store](https://apps.apple.com) |
+| **ALFNR** | HRMS Platform — Geo-fencing attendance, Apple Wallet, payroll (Flutter + PHP + MySQL) | [▶ Play](https://play.google.com/store/apps/details?id=com.alfnr.hub) · [🍎 App Store](https://apps.apple.com/ae/app/alfnr-business-hub/id6467107273) |
+| **Vivlino** | Cash flow & sales management for SMEs — 1,000+ users | Flutter · Firebase · Node.js | [▶ Play](https://play.google.com/store/apps/details?id=com.firstlogicmetalab.vivlino_cust) · [🍎 App Store](https://apps.apple.com/app/vivlino/id6642706583) |
+| **Threems (3MS)** | Community finance platform — rotating savings, charity & marketplace | Flutter · Firebase · Node.js | [▶ Play](https://play.google.com/store/apps/details?id=com.firstlogicmetalab.threems) · [🍎 App Store](https://apps.apple.com/app/3ms/id6745809435) |
+| **Soulknob Mind Menders** | Corporate wellness — AI chat, video counseling & gamified activities | Flutter · Firebase · REST APIs | [▶ Play](https://play.google.com/store/apps/details?id=com.vedidsolutions.soulknob) · [🍎 App Store](https://apps.apple.com/app/soulknob/id6741296883) |
+| **Tharacart** | National grocery e-commerce platform | Flutter · Firebase | [▶ Play](https://play.google.com/store/apps/details?id=com.firstlogicinfolab.thara_cart_customer)  · [🍎 App Store](https://apps.apple.com/ae/app/thara-cart-marketplace/id1639992424) |
+| **Live To Smile (LTS)** | Online learning platform — course management & student tracking | Flutter · Firebase | [▶ Play](https://play.google.com/store/apps/details?id=com.firstlogicmetalab.live_to_smile) · [🍎 App Store](https://apps.apple.com/app/lts-live-to-smile/id6445863907) |
 
 > 🔒 **Note:** Enterprise projects (HRMS, ERP, Flight Booking, E-Commerce) are confidential client work and cannot be open-sourced.
 
