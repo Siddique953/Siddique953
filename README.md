@@ -57,7 +57,7 @@
 
 | App | Description | Stack | Store |
 |-----|-------------|-------|-------|
-| **ALFNR** | HRMS Platform — Geo-fencing attendance, Apple Wallet, payroll (Flutter + PHP + MySQL) | [▶ Play](https://play.google.com/store/apps/details?id=com.alfnr.hub) · [🍎 App Store](https://apps.apple.com/ae/app/alfnr-business-hub/id6467107273) |
+| **ALFNR** | HRMS Platform — Geo-fencing attendance, Apple Wallet, payroll | Flutter, PHP, MySQL | [▶ Play](https://play.google.com/store/apps/details?id=com.alfnr.hub) · [🍎 App Store](https://apps.apple.com/ae/app/alfnr-business-hub/id6467107273) |
 | **Vivlino** | Cash flow & sales management for SMEs — 1,000+ users | Flutter · Firebase · Node.js | [▶ Play](https://play.google.com/store/apps/details?id=com.firstlogicmetalab.vivlino_cust) · [🍎 App Store](https://apps.apple.com/app/vivlino/id6642706583) |
 | **Threems (3MS)** | Community finance platform — rotating savings, charity & marketplace | Flutter · Firebase · Node.js | [▶ Play](https://play.google.com/store/apps/details?id=com.firstlogicmetalab.threems) · [🍎 App Store](https://apps.apple.com/app/3ms/id6745809435) |
 | **Soulknob Mind Menders** | Corporate wellness — AI chat, video counseling & gamified activities | Flutter · Firebase · REST APIs | [▶ Play](https://play.google.com/store/apps/details?id=com.vedidsolutions.soulknob) · [🍎 App Store](https://apps.apple.com/app/soulknob/id6741296883) |
